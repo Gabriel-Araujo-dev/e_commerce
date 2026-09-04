@@ -151,9 +151,6 @@ ecommerce-sql-dashboard/
 ├── notebooks/
 │   └── M26_Ecommerce_SQL_Dashboard.ipynb
 │
-├── dashboard/
-│   └── README.md
-│
 └── README.md
 ```
 
