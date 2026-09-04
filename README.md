@@ -146,7 +146,7 @@ ecommerce-sql-dashboard/
 ├── data/
 │   ├── TB_TRANSACOES_PROJETO_ECOMM.csv
 │   ├── TB_CLIENTES_PROJETO_ECOMM.csv
-│   └── base_consolidada.csv
+│   └── dados_ecommerce_final.csv
 │
 ├── notebooks/
 │   └── M26_Ecommerce_SQL_Dashboard.ipynb
